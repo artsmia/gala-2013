@@ -1,0 +1,28 @@
+/* global reset */
+
+* {margin:0;padding:0}
+
+/* reset by element */
+
+html,body{margin:0;padding:0}
+:link,:visited { text-decoration:none }
+ul,ol { list-style:none }
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input { margin:0; padding:0 }
+/*h1,h2,h3,h4,h5,h6,pre,code { font-size:1em; }*/
+a img,:link img,:visited img { border:none }
+address { font-style:normal }
+a:focus, object, embed {outline:0;}
+a img, img {border:none;}
+
+/* new clearfix */
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+	
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */

@@ -1,0 +1,69 @@
+body {
+	background: #990066; /* Old browsers */
+	background: -moz-linear-gradient(45deg, #990066 0%, #f49542 50%, #990066 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #990066), color-stop(50%, #f49542), color-stop(100%, #990066)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg, #990066 0%, #f49542 50%, #990066 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg, #990066 0%, #f49542 50%, #990066 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg, #990066 0%, #f49542 50%, #990066 100%); /* IE10+ */
+	background: linear-gradient(45deg, #990066 0%, #f49542 50%, #990066 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#990066', endColorstr='#990066', GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	padding: 0px;
+	margin: 0px;
+}
+#MIA_header {
+	background: #000 url("http://www.artsmia.org/UserFiles/Image/MIA_web_header.jpg") top left no-repeat;
+	/*position:absolute;*/
+	top: 0;
+	left: 0;
+	padding: 0;
+	margin: 0;
+	height: 46px;
+	width: 100%;
+}
+#container {
+	background-color: #fff;
+	padding: 0px;
+	margin: 0px;
+}
+#header {
+	height: 300px;
+	max-height: 300px;
+	width: 100%;
+	background: #fff url('../images/header_bg.gif') bottom right no-repeat;
+}
+#nav {
+	margin: 50px 0 0 50px;
+}
+#nav p {
+	font-family: "lobster", "lucida Handwriting", "mistral", serif;
+	font-size: 24px;
+	padding-bottom: 15px;
+	border-bottom: 1px dotted #906;
+	margin-bottom: 15px;
+	color: #555;
+}
+#nav ul li {
+	margin-bottom: 15px;
+}
+#nav ul li a {
+	font-family: "Museo", serif;
+	font-size: 18px;
+	color: #906;
+}
+.rainbow_road {
+	width: 100%;
+	height: 20px;
+	background: #fff url('../images/color_strip.gif') repeat-x;
+	clear: both;
+}
+.content-wrap {
+	margin: 50px;
+}
+.fuschia {
+	background-color:#906;
+	border-radius:15px;
+}
+.orange {
+	background-color:#f49542;
+	border-radius:15px;
+}

@@ -1,0 +1,63 @@
+/* Type & image presets for Windows */
+
+body {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+h1 {
+	font-family: 'Lucida Sans Unicode',serif;
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+h2 {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+h3 {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+#nav ul li a {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+.lpara, .rpara{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+#dates p {
+	font-family: Georgia,serif;
+	font-variant:small-caps;
+}
+
+.btn span {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+p.callout {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+#s_nav a{
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+div.event_time {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+span.event_title {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+.day h2{
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+.profile h2{
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}
+
+.lpara ul li a.pb {
+	font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", 'Helvetica-Neue','HelveticaNeue','Helvetica',sans-serif;
+}

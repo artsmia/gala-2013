@@ -1,0 +1,45 @@
+/* Type & image presets for Windows */
+
+body, h1 ,h2, h3 {
+	font-style:normal;
+}
+
+#nav ul li a {
+	font-style:normal;
+}
+
+.lpara, .rpara{
+	font-style:normal;
+}
+
+.btn span {
+	font-style:normal;
+}
+
+p.callout {
+	font-style:normal;
+}
+
+#s_nav a{
+	font-style:normal;
+}
+
+div.event_time {
+	font-style:normal;
+}
+
+span.event_title {
+	font-style:normal;
+}
+
+.day h2{
+	font-style:normal;
+}
+
+.profile h2{
+	font-style:normal;
+}
+
+.lpara ul li a.pb {
+	font-style:normal;
+}

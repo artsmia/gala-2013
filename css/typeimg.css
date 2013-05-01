@@ -1,0 +1,222 @@
+/* Type & image presets */
+
+object, embed {
+	margin-bottom: 20px;
+}
+
+body {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+	font-size: 14px;
+	line-height: 24px;		/* Changing this will break the baseline grid. */
+	-webkit-text-size-adjust: none;		/* Stops the iPhone scalling type up */
+}
+
+a, a:link{
+	color:#cc262c;
+	font-weight:900;
+	text-decoration:underline;
+}
+
+a:hover {
+	color: #bf1d74;
+	text-decoration:underline;
+}
+
+a img {
+	display: block;		/* Stops image links getting text link styles */
+}
+
+img {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-bottom: 20px;
+}
+
+p, ul, ol, blockquote {
+	margin-bottom: 24px;	/* Changing this will break the baseline grid. */
+}
+
+li {
+	margin-bottom: 6px;
+}
+
+blockquote {
+	border-left: 1px solid #c1c1c1;
+	color: #747474;
+	padding-left: 15px;
+	margin-left: -15px;
+}
+
+h1 {
+	font-size: 28px;
+	line-height: 36px;		/* Changing this will break the baseline grid. */
+	margin-bottom: 24px;	/* Changing this will break the baseline grid. */
+	/*font-family: "bickham-script-pro",Georgia,serif;*/
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight:400;
+	text-transform:uppercase;
+	letter-spacing: 0.09em;
+	color:#666;
+	/*text-shadow: 1px 1px 0 #ED1D24;*/
+	border-bottom:3px dotted #D19C14;
+	margin-top:1em;
+}
+
+h2 {
+	font-size: 28px;
+	margin-bottom: 18px;	/* Changing this will break the baseline grid. */
+	/*font-family: "bickham-script-pro",Georgia,serif;*/
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 500;
+	color:#fff;
+}
+
+h3 {
+	font-size: 24px;
+	margin-bottom: 18px;	/* Changing this will break the baseline grid. */
+	font-family: "minion-pro-caption", Georgia, serif;
+	font-weight: 400;
+	color:#D19C14;
+	text-transform: uppercase;
+	border-bottom:2px dotted #D19C14;
+}
+
+h4 {
+	/*font-family: "minion-pro-caption", Georgia, serif;*/
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight:500;
+	color:#ddd;
+}
+
+h5 {
+	font-size: 48px;
+	margin-bottom: 18px;	/* Changing this will break the baseline grid. */
+	font-family: "bickham-script-pro",Georgia,serif;
+	font-weight: 400;
+	color:#cc2b2c;
+}
+
+
+
+.affinity span{
+	color:#7699c0;
+	font-weight:700;
+}
+
+.dealers h2 {
+	margin-bottom:9px;
+}
+
+.dealers h2 a, .preview h2 a {
+	font-size: 24px;
+	margin-bottom: 18px;	/* Changing this will break the baseline grid. */
+	font-weight:900;
+	color:#cc6ea6;
+}
+
+.dealers h2 a:hover, .preview h2 a:hover {
+	color:#7699c0;
+}
+
+.dealers ul {
+	list-style-type: disc;
+	margin-left:1em;
+}
+
+.dealers span {
+	color:#ededed;
+	font-weight:600;
+	padding-left:1em;
+}
+
+#nav ul li a, #nav ul li a:link {
+	color:#D19C14;
+	font-family: "minion-pro-caption", Georgia, serif;
+	text-transform:uppercase;
+	font-weight:900;
+	letter-spacing: 0.05em;
+	border:none;
+	text-decoration:none;
+	text-shadow: 1px 1px 0 #111;
+}
+
+.lpara, .rpara{
+	line-height:2em;
+	color:#dcdcdc;
+}
+
+#dates p {
+	font-family: "minion-pro-caption", Georgia, serif;
+	text-transform:uppercase;
+	font-weight:500;
+	text-align:left;
+	color:#fff;
+	letter-spacing: .1em;
+	font-size:120%;
+}
+
+.btn span {
+	color:#fff;
+	font-size: 20px;
+	font-family: "minion-pro-caption", Georgia, serif;
+	text-transform:uppercase;
+	font-weight:500;
+}
+
+p.callout {
+	font-size: 18px;
+	margin-bottom: 18px;
+	line-height:1.5em;
+	color:#fff;
+	font-weight: 900;
+	font-family: "minion-pro-caption", Georgia, serif;
+}
+
+div.times{
+	text-align:center;
+	padding:20px;
+	padding-top:30px;
+	background-color:#333;
+	color:#fff;
+}
+
+div.times h2 {
+	color:#fff;
+}
+
+.imgcredit{
+	line-height:1.5em;
+	font-weight:500;
+	background-color:#333;
+	padding:1.75em 2em .5em 2em;
+}
+
+.imgcredit p{
+	color:#fff;
+}
+
+
+.credit{
+	font-size:smaller;
+	line-height:1.4em;
+	margin:2em 0;
+	
+}
+
+.credit h6{
+	margin-bottom:0.5em;	
+}
+
+
+.committee{
+	-moz-column-count: 3;
+	-moz-column-gap: 1em;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 1em;
+	column-count: 3;
+	column-gap: 1em;
+	font-size:80%;
+	font-weight: 600;
+}
