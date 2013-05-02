@@ -13,38 +13,25 @@ margin-left: 0px;
 margin-right: 0px;
 padding-left: 20px;
 padding-right: 20px;
+margin-top:30px;
 }
 
-.lpara, .rpara, .mpara{
-	margin:40px 0;
+#content {
+	padding-top:0px;
 }
 
-/* Type presets */
-
-body {
-font-size: 16px;
-line-height: 24px;
+.thankyou {
+	text-align:center;
 }
 
-.hdr {
-	padding-left:0;
-	padding-right:0;
+#nav_wrap, #nav {
+	height:100px;
 }
 
-#s_nav{
-	float:none;
-	margin-right:auto;
-	margin-left:auto;
+#nav ul li {
+	border-right:none;
 }
 
-.shdr {
-	padding:0;
-}
-
-.spara{
-	margin:0 0 40px 0;
-}
-
-#title h1 {
-	line-height:1.2em;
+#header_img {
+	margin-left:-240px;
 }
