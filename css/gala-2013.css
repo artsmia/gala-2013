@@ -1,5 +1,5 @@
 body {
-	background:#fff;
+	background:#906 url('../images/otis_redding2.png');
 	padding: 0px;
 	margin: 0px;
 }
@@ -10,21 +10,48 @@ p {
 	color:#fff;
 	margin-top:15px;
 }
+#content p {
+	font-size:14px;
+}
+a, a:visited, a:active {
+	color:inherit;
+	font-weight:500;
+	transition:text-shadow linear .15s;
+}
+a:hover {
+	text-shadow:1px 1px 2px #333;
+	-webkit-text-shadow:1px 1px 2px #333;
+	-moz-text-shadow:1px 1px 2px #333;
+}
 h1 {
 	font-family: "lobster", "lucida Handwriting", "mistral", serif;
 	font-size: 58px;
 	margin-left:20px;
 	color:#fff;
 	font-weight:normal;
+	text-shadow:2px 2px 4px #4A0E38;
+	-webkit-text-shadow:2px 2px 4px #4A0E38;
+	-moz-text-shadow:2px 2px 4px #4A0E38;
+}
+h2 {
+	font-family: "lobster", "lucida handwriting", "mistral", serif;
+	font-size:30px;
+	margin-top:40px;
+	margin-bottom:20px;
+	color:#fff;
+	font-weight:normal;
+	text-shadow:2px 2px 4px #333;
+	-webkit-text-shadow:2px 2px 4px #333;
+	-moz-text-shadow:2px 2px 4px #333;
 }
 h4 {
 	font-family: "Museo", serif;
 	font-size:18px;
 	font-weight:500;
 	color:#fff;
-	padding-bottom:15px;
-	border-bottom:1px dotted #fff;
-	margin-bottom:15px;
+}
+#footer h4 {
+	color:#906;
 }
 h5 {
 	font-family: "Museo", serif;
@@ -38,14 +65,26 @@ h6 {
 	font-weight:300;
 	color:#fff;
 	line-height:24px;
+	margin-top:15px;
 }
 ul{
 	list-style:outside;
 	margin-left:20px;
+	margin-top:10px;
 }
 li{
-	font-style:italic;
+	font-family:"Museo", serif;
 	color:#fff;
+	font-size:13px;
+	margin-bottom:10px;
+	font-weight:300;
+}
+.underline {
+	padding-bottom:15px;
+	border-bottom:1px dotted #fff;
+}
+.pushdown {
+	padding-top:30px;
 }
 
 /**************************************************************************************************** HEADER **********/
@@ -106,10 +145,12 @@ li{
 }
 #nav ul {
 	text-align:center;
+	margin-top:0px;
+	margin-left:0px;
 }
 #nav ul li {
 	display:inline-block;
-	padding:15px 30px;
+	padding:15px 25px;
 	border-right:1px solid #992277;
 	margin:0px;
 	transition:all ease-in-out .3s;
@@ -126,38 +167,39 @@ li{
 }
 #nav ul li a {
 	font-family: "Museo", serif;
-	font-size: 18px;
+	font-size: 16px;
 	color: #fff;
 	font-weight:300;
+	font-style:italic;
 }
 
-/**************************************************************************************************** RAINBOW ROAD **********/
+/**************************************************************************************************** DIVIDER **********/
 
-.rainbow_road_wrap {
-	position:relative;
-	height:7px;
-}
-.rainbow_road {
+.divider {
 	width: 100%;
-	height: 7px;
-	background: #fff url('../images/rainbow_road.gif') repeat-x;
-	position:absolute;
+	height: 3px;
+	background-color: #990066;
 }
 
-/**************************************************************************************************** MAIN CONTENT **********/
+/**************************************************************************************************** CONTENT **********/
 
 #content {
-	padding-top:30px;
-	padding-bottom:30px;
+	padding:30px 20px;
 	background: -moz-linear-gradient(top,  #990066 0%, #f1653d 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#990066), color-stop(100%,#f1653d));
 	background: -webkit-linear-gradient(top,  #990066 0%,#f1653d 100%);
 	background: -o-linear-gradient(top,  #990066 0%,#f1653d 100%);
 	background: -ms-linear-gradient(top,  #990066 0%,#f1653d 100%);
 	background:linear-gradient(to bottom,  #990066 0%,#f1653d 100%); 
+	box-shadow:0px 5px 10px #333;
+	-webkit-box-shadow:0px 5px 10px #333;
+	-moz-box-shadow:0px 5px 10px #333;
 }
 .content-wrap {
 	padding: 30px;
+}
+a:visited div {
+	border-color:#fff;
 }
 #content .sixcol .content-wrap{
 	transition:all ease-in-out 1s;
@@ -199,31 +241,68 @@ li{
 #content .sixcol:hover .raquo{
 	opacity:1;
 }
+.time {
+	font-style:normal;
+	font-variant:small-caps;
+	padding-right:30px;
+}
+.schedule {
+	font-style:italic;
+}
+#content img {
+	width:100%;
+}
+
+/**************************************************************************************************** INFO **********/
+
+#info {
+	padding:0px 20px 50px 20px;
+}
+
+/**************************************************************************************************** GALA INFO PAGE **********/
+
+#gala_title_block {
+	text-align:center;
+}
+#gala_title_block .title_event {
+	margin-left:0px;
+}
 
 /**************************************************************************************************** FOOTER **********/
 
+.proceeds {
+	max-width:600px;
+	text-align:center;
+	color:#666;
+	display:block;
+	margin:20px auto 10px auto;
+	font-style:italic;
+}
 #footer{
 	width:100%;
-	background-color:#fff;
+	background:#fff url('../images/pearlpile.jpg') bottom center no-repeat;
 	padding-top:30px;
-	padding-bottom:30px;
+	padding-bottom:120px;
 }
 #footer h4{
 	color:#906;
-	border-color:#906;
+	margin-bottom:10px;
 }
 #footer p{
-	color:#333;
+	color:#555;
+	margin-top:0px;
 }
 .thankyou{
 	padding-top:20px;
 }
-.hosts p {
-	margin-top:0px;
-}
-.sponsor_wrap {
+.logo_wrap, .sublogo_wrap {
 	margin-bottom:50px;
 	text-align:center;
+}
+.sublogo_wrap img {
+	display:block;
+	margin:20px auto 50px auto;
+	opacity:.7;
 }
 .sponsor_text {
 	color:#990066;
@@ -231,6 +310,26 @@ li{
 }
 .sponsor_logo {
 	margin:0px auto;
+}
+#share {
+	margin-top:30px;
+	padding-bottom:20px;
+	vertical-align:top;
+	height:100px;
+}
+#share img{
+	margin-right:6px;
+	width:34px;
+	height:34px;
+	transition:all linear .25s;
+	-webkit-transition:all linear .25s;
+	-moz-transition:all linear .25s;
+	vertical-align:top;
+}
+#share img:hover{
+	width:40px;
+	height:40px;
+	margin-right:0px;
 }
 
 /**************************************************************************************************** PEARLS **********/
