@@ -12,8 +12,8 @@
                </div>
                <h4>Saturday, June 1, 2013
                <br />8:30 p.m. to midnight</h4>
-               <h6>The stars are shining and the air is warm again! Join us outside in Target Park to celebrate the summer with music, drinks and light bites.</h6>
-               <p>$85; $175 V.I.P.; reservations close 5/31 | Cocktail attire
+               <h6>Live Music by Doomtree and Morris Day and the Time</h6>
+               <p>$85; $175 V.I.P.; reservations close 5/31, or until sold out | Cocktail attire
                <br /><strong>Learn more and get tickets &raquo;</strong></p>
                <p>Summer Party tickets must be purchased by midnight on Friday, May 31st.  If space allows, General Admission tickets will be sold at the door for $100 and VIP tickets for $175.</p>
 <!--
@@ -41,9 +41,8 @@
                </div>
                <h4>Saturday, June 1, 2013
                <br />6 p.m. to midnight</h4>
+               <h4>Sold Out!</h4>
                <h6>The MIA’s fourth annual fund-raising Gala is inspired by the exhibition “More Real? Art in the Age of Truthiness.” You’re invited to celebrate with us and support the mission of the MIA.</h6>
-               <p>$750 individual; $10,000-$20,000 table | Black tie
-               <br /><strong>Learn more and get tickets &raquo;</strong></p>
             </div>
          </a>
       </div>  

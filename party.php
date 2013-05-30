@@ -18,9 +18,9 @@
          </div>
          <h4>Saturday, June 1, 2013
          <br />8:30 p.m. to midnight
-         <br />Outside in Target Park
+         <br />Target Wing Reception Hall
          <br />Cocktail Attire</h4>
-	      <h6>The stars are shining and the air is warm again! Join us outside in Target Park to celebrate the summer with music, drinks and light bites.</h6>
+	      <h6>Live Music by Doomtree and Morris Day and the Time</h6>
       </div>
       <div class="sixcol last">
       	<img src="images/party_1.jpg" style="width:100%;"/>
