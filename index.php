@@ -13,8 +13,9 @@
                <h4>Saturday, June 1, 2013
                <br />8:30 p.m. to midnight</h4>
                <h6>The stars are shining and the air is warm again! Join us outside in Target Park to celebrate the summer with music, drinks and light bites.</h6>
-               <p>$85; $175 V.I.P. | Cocktail attire
+               <p>$85; $175 V.I.P.; reservations close 5/31 | Cocktail attire
                <br /><strong>Learn more and get tickets &raquo;</strong></p>
+               <p>Summer Party tickets must be purchased by midnight on Friday, May 31st.  If space allows, General Admission tickets will be sold at the door for $100 and VIP tickets for $175.</p>
 <!--
                <p>Outdoors in Target Park
                <br />Cocktail attire</h4>

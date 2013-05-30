@@ -56,6 +56,7 @@
       <div class="sixcol last">
       	<h2>Reservations</h2>
          <p>To reserve tickets for the Summer Party, <a href="https://tickets.artsmia.org/public/">click here</a> or call the Event Hotline at (612)&nbsp;870&#8209;6323.</p>
+         <p>Summer Party tickets must be purchased by midnight on Friday, May 31st.  If space allows, General Admission tickets will be sold at the door for $100 and VIP tickets for $175.</p>
       </div>
      
    </div><!-- /row -->
