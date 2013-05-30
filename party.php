@@ -57,6 +57,8 @@
       	<h2>Reservations</h2>
          <p>To reserve tickets for the Summer Party, <a href="https://tickets.artsmia.org/public/">click here</a> or call the Event Hotline at (612)&nbsp;870&#8209;6323.</p>
          <p>Summer Party tickets must be purchased by midnight on Friday, May 31st.  If space allows, General Admission tickets will be sold at the door for $100 and VIP tickets for $175.</p>
+         <h2>Ride in Style</h2>
+         <p id="uber"><img src="images/uber-logo.png" />We've partnered with Uber to connect guests with on-demand, luxury transportation for the MIA Summer Party!  Ticket buyers new to Uber will receive a special code for a FREE ride, up to $35 off. From the tap of a button in the app, guests can request a Private Driver to get to or from the event in style. Just request, ride and enjoy!</p>
       </div>
      
    </div><!-- /row -->
