@@ -22,11 +22,11 @@
          <table border="0" cellpadding="0" cellspacing="0">
          	<tr>
             	<td class="time"><p>6 p.m.</p></td>
-               <td class="schedule"><p>Cocktail reception, Target Park</p></td>
+               <td class="schedule"><p>Cocktail reception, Target Wing</p></td>
             </tr>
             <tr>
             	<td class="time"><p>7:30 p.m.</p></td>
-               <td class="schedule"><p>Black-tie dinner, Reception Hall</p></td>
+               <td class="schedule"><p>Black-tie dinner</p></td>
            	</tr>
             <tr>
             	<td class="time"><p>8:45 p.m.</p></td>
@@ -34,7 +34,7 @@
             </tr>
             <tr>
             	<td class="time"><p>10 p.m.</p></td>
-               <td class="schedule"><p>Summer Party already under way, Target Park</p></td>
+               <td class="schedule"><p>Summer Party already under way, Target Wing Reception Hall</p></td>
             </tr>
          </table>
       </div>
@@ -93,8 +93,8 @@
    
    	<div class="twelvecol last">
       	<h2>Reservations</h2>
-         <p>To reserve tickets to the Gala dinner, contact Annie Lebedoff at (612) 870-3023 or <a href="mailto:alebedoff@artsmia.org">alebedoff@artsmia.org.</a></p>
-         <p>Deadline: <strong>Friday, May 17, 2013.</strong> Space is limited; please respond quickly.</p>
+         <p><del>To reserve tickets to the Gala dinner, contact Annie Lebedoff at (612) 870-3023 or <a href="mailto:alebedoff@artsmia.org">alebedoff@artsmia.org.</a></del></p>
+         <p>Sold Out! But hurry and you can still get tickets to our <a href="party.php">Summer Party</a>.</p>
       </div>
    
    </div><!-- /row -->
