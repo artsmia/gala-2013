@@ -509,3 +509,11 @@ a:visited div {
         margin-left:25px;
     }
 }
+
+#uber img {
+  height: 63px;
+  float: right;
+  background: whitesmoke;
+  border-radius: 3px;
+  margin: 0 0 1em 1em;
+}
